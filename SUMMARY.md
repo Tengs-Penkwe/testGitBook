@@ -1,7 +1,7 @@
 # Table of contents
 * [系统科学导引](README.md)
-* [致谢](Acknowledgements.md)
-* [序](Preface.md)
+* [致谢](致谢.md)
+* [序](序.md)
 
 ***
 
