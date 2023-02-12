@@ -3,4 +3,4 @@ This is some text with a footnote.[^2]
 
 
 [^2]: This is the text of the footnote.
-[^1]: Test
+[^1]: Test.
