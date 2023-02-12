@@ -1,7 +1,8 @@
 
 # Table of contents
 * [Introduction to system science](README.md)
-* [致谢](Acknowledgements)
+* [序](Preface.md)
+* [致谢](Acknowledgements.md)
 
 ## 第一部分: 系统科学概论
 
@@ -17,6 +18,8 @@
 * [划分系统和确定考察的因素:热寂问题和量纲分析]()
 * [力学思想无处不在:状态、状态变化以及状态 变化的原因]()
 * [普适性:一个概念、原理、分析方法或者模型尽可能多地描述现象]()
+* [作业]()
+* [本章小结]()
 
 ## 第二部分: 系统科学的数学物理基础
 
