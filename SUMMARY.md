@@ -1,7 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [系统科学导引](<README (1).md>)
 * [致谢](致谢.md)
 * [序](序.md)
 * [前言](0-Preface/Preface.md)
