@@ -32,12 +32,11 @@
 方福康
 2018年4月
 
-参考文献
 
-[^1]: NorbertWiener,IAmaMathematician:TheLaterLifeofaProdigy,1964,p.324.
+[^1]: Norbert Wiener, I Am a Mathematician: The Later Life of a Prodigy, 1964, p.324.
 
 [^2]: 徐光宪，化学分子信息量的计算和可见宇宙信息量的估算，中国科学B辑:化学，2007年，第37卷，第4期:313-317.
 
 [^3]: 达尔文，《人类的由来》，第三章，1887.
 
-[^4]: MartinA.Nowak，EvolutionaryDynamics，HarvardUniversityPress，2006.
+[^4]: Martin A. Nowak，Evolutionary Dynamics，Harvard University Press，2006.
