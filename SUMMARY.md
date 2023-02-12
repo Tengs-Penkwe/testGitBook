@@ -40,8 +40,8 @@
 
 ## Try Name
 
-* [Page 6](try-name/page-6/README.md)
-  * [Page 7](try-name/page-6/page-7.md)
+* [Page 6](Overview/Introduction/Ideas-Goals-Orientation.md)
+  * [Page 7](Overview/Introduction/README.md)
   * [Page 13](try-name/page-6/page-13.md)
 
 ## Group 3
