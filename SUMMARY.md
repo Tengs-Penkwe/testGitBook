@@ -6,8 +6,8 @@
 
 ## 第一部分: 系统科学概论
 
-* [引言:系统科学与科学](Introduction/Chapeter_1/README.md)
-  * [抛一块砖:系统科学的思想、目标和定位](Ideas-Goals-Orientation)
+* [引言:系统科学与科学](Introduction/README.md)
+  * [抛一块砖:系统科学的思想、目标和定位](Introduction/Chapter_1/Ideas-Goals-Orientation.md)
   * [整体论和还原论、相互作用]()
   * [关于科学和科学方法]()
   * [引言:系统科学与科学]()
