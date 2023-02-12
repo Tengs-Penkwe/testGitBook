@@ -1,8 +1,10 @@
-this is a [^1], and [Karl Popper](Names/Karl%20Popper.md), also [The logic of scientific discovery](Reference/The%20logic%20of%20scientific%20discovery.md)
-This is some text with a footnote.[^2] 
+# Test
 
-this is $\LaTeX$
-$$\LaTeX$$again
+this is a , and [Karl Popper](../0%20%E5%89%8D%E8%A8%80/Names/Karl%20Popper.md), also [The logic of scientific discovery](../0%20%E5%89%8D%E8%A8%80/Reference/The%20logic%20of%20scientific%20discovery.md) This is some text with a[ footnote](#user-content-fn-1)[^1].
 
-[^2]: This is the text of the footnote.
-[^1]: Test.
+this is $\LaTeX$ $$\LaTeX$$again
+
+1. Test.
+
+[^1]: Try a note
+
