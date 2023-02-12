@@ -1,12 +1,12 @@
 
 # Table of contents
-* [Introduction to system science](README.md)
+* [系统科学导引](README.md)
 * [致谢](Acknowledgements.md)
 * [序](Preface.md)
 
 ## 第一部分: 系统科学概论
 
-* [引言:系统科学与科学](Introduction/Chapeter_1/README)
+* [引言:系统科学与科学](Introduction/Chapeter_1/README.md)
   * [抛一块砖:系统科学的思想、目标和定位](Ideas-Goals-Orientation)
   * [整体论和还原论、相互作用]()
   * [关于科学和科学方法]()
