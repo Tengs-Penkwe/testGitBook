@@ -3,8 +3,7 @@
 * [致谢](Acknowledgements.md)
 * [序](Preface.md)
 
-## 前言
-* [前言](前言/README.md)
+* [前言](前言/前言.md)
 
 ## 第一部分: 系统科学概论
 
