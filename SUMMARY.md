@@ -6,6 +6,7 @@
 * [前言](0-Preface/Preface.md)
   * [真的前言](0-Preface/True-Preface.md)
   * [什么是系统科学?](0-Preface/What's-System-Science-?.md)
+  * [系统科学的还原论和整体论](0-Preface/Reductionism-and-Holism-of-System-Science.md)
 
 ## 第一部分: 系统科学概论
 
