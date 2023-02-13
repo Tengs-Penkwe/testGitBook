@@ -8,8 +8,8 @@
 
 我想，我正好要讀您的書，可以進行這個工作，目前我製作了一個測試樣例，書籍存儲爲 Markdown  格式，利用 git 進行管理，依託 Gitbook 製作靜態網葉
 
-書籍地址： https://thought-1.gitbook.io/untitled/
-目前的測試倉庫地址： https://github.com/Tengs-Penkwe/testGitBook
+網絡閱讀地址： https://thought-1.gitbook.io/untitled/
+目前的Git倉庫地址： https://github.com/Tengs-Penkwe/testGitBook
 
 優點：
 1.  git 可以對書籍進行版本管理
@@ -19,3 +19,5 @@
 缺點：
 1. 難以製作全局索引，
 2. Gitbook 目前對 腳註 (footnote) 的支持還不太好
+
+不知道您怎麼看？
