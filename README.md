@@ -14,7 +14,7 @@ C.D.F: Cumulative Distribution Function
 $$
 \begin{align}
 \mathbb{P}(X < x) &= F_{X}(x)  \\
-& = \int _{-\infty}^{\infty} f_{X}(x) \, dx 
+& = \int _{-\infty}^{\infty} f_{X}(x) dx 
 \end{align}
 $$
 P.D.F: Probability Density Function
@@ -23,6 +23,6 @@ $$\mathbb{P}(X=c) = F_{X}(C) - \lim_{ t \to C^-}F_{X}(C) = f_{X}(C) = 0$$
 
 $$
 \begin{equation}
-\mathbb{P}(X < x) = F_{X}(x) = \int _{-\infty}^{\infty} f_{X}(x) \, dx 
+\mathbb{P}(X < x) = F_{X}(x) = \int _{-\infty}^{\infty} f_{X}(x) dx 
 \end{equation}
 $$
