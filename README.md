@@ -32,5 +32,6 @@ $$
   \tau_{0}^{-} & = \frac{\sigma_{xy} - \delta_{xy}\sqrt{1 - r_{H}}}{2e^{2}n_{s}\rho_{\text{xx}}} \\
   \tau_{vv}^{-} & = \frac{24\tau_{0}^{-}m_{x}m_{y}\sigma_{xy}\delta_{xy}\sqrt{1 - r_{H}}}{\left(10m_{x}m_{y} + 3m_{x}^{2} + 3m_{y}^{2}\right)(\delta_{xy}^{2} - \sigma_{xy}\delta_{xy}\sqrt{1 - r_{H}})},
 \end{align}
-where $\sigma_{xy} = m_{x} + m_{y}$ and $\delta_{xy} = \lvert m_{x} - m_{y}\rvert$.
 $$
+
+where $\sigma_{xy} = m_{x} + m_{y}$ and $\delta_{xy} = \lvert m_{x} - m_{y}\rvert$.
